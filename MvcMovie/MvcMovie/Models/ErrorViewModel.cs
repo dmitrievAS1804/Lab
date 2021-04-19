@@ -1,6 +1,6 @@
 using System;
 
-namespace sem1.Models
+namespace MvcMovie.Models
 {
     public class ErrorViewModel
     {
